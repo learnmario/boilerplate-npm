@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jane Doe",
+	"description": "Yet another student project from FreeCodeCamp. Do not install it on your machine",
+	"keywords":["freecodecamp", "student","Project"],
+	"license": "MIT",
+	"version": "0.3",
 	"dependencies": {
 		"express": "^4.14.0"
+	
 	},
 	"main": "server.js",
 	"scripts": {
